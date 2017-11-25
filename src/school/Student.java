@@ -15,6 +15,25 @@ public class Student extends Person{
     }
     
  
+    /*
+    ////////////////////////////////
+    /// How to push new Edits///////
+    ////////////////////////////////
+        1. git add .
+        2. git commit -m "Any Message"
+        3. git push
+    
+    ////////////////////////////////
+    /// How to pull new Edits///////
+    ///////////////////////////////
+        1.git pull
+    
+    ////////////////////////////////
+    /// How to Clone Repository/////
+    ////////////////////////////////
+        1. git clone <Repository URL HERE>
+    
+    */
     
     
             
